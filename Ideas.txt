@@ -1,6 +1,9 @@
 Got an idea, write it down here.
 
 1. Fill the Knowledge Box.
-
+    - Learn Language  :   CPP Java Python
+    - Learn Web Dev   :   HTML CSS JS PHP MySQL
+    - Learn Framework :   NodeJS Angular
+    - Learn Libraries :   ReactJS
 
 Thanks :)
